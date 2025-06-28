@@ -53,7 +53,6 @@ def analyse_image(base64_image):
         """
         You are an expert system designed to monitor a pet's water bowl
         I will provide you with an image of a dog water bowl. 
-        You are to only look at the water bowl to the right.
         Water will appear in the centre of the water bowl as a different colour or shade compared to the bowl's inner plastic wall.
         Ignore reflections.
         Your task is to determine the water level in the bowl in terms of percentage and your confidence in that percentage.
